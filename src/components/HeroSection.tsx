@@ -18,7 +18,7 @@ export function HeroSection() {
           <div className="text-center lg:text-left space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight">
-                <span className="text-white">Young Leaders</span>
+                <span className="text-white">Ignite Leaders</span>
                 <br />
                 <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
                   Conference
